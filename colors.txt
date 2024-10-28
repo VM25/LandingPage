@@ -1,0 +1,76 @@
+LIGHT MODE
+
+1. Teal and Soft Gray (current color scheme)
+    Primary Color: Teal (#4ABDAC)
+    Accent: Soft Gray (#EAEAEA)
+    Background: Charcoal (#333333)
+    Text: Dark Slate (#2C3E50)
+
+2. Deep Blue and Soft Teal
+    Primary Color: Deep Blue (#1A1A40)
+    Accent: Soft Teal (#66B2B2)
+    Background: Dark Slate Gray (#2E2E2E)
+    Text: White(#FFFFFF)
+
+3. Charcoal and Neon Green
+    Primary Color: Charcoal Gray (#333333)
+    Accent: Neon Green (#32CD32)
+    Background: Black (#000000)
+    Text: Very Light Gray (#E0E0E0)
+
+4. Slate Blue and Orange Accents
+    Primary Color: Slate Blue (#4A4A7D)
+    Accent: Orange (#FFA500)
+    Background: Navy (#1B1B32)
+    Text: White(#FFFFFF)
+
+5. Forest Green and Metallic Gray
+    Primary Color: Forest Green (#228B22)
+    Accent: Metallic Gray (#BEBEBE)
+    Background: Dark Greenish Gray (#1F1F1F)
+    Text: Ivory (#FFFFF0)
+
+6. Royal Blue with Golden Highlights
+    Primary Color: Royal Blue (#4169E1)
+    Accent: Golden Yellow (#FFD700)
+    Background: Midnight Blue (#191970)
+    Text: Light Gray (#E8E8E8)
+
+
+DARK MODE
+
+1. Teal and Soft Gray (Dark Mode)
+    Primary Color: Dark Teal (#246C7A)
+    Accent: Dark Gray (#4F4F4F)
+    Background: Black (#000000)
+    Text: Light Slate (#B0C4DE)
+
+2. Deep Blue and Soft Teal (Dark Mode)
+    Primary Color: Navy Blue (#0D0D20)
+    Accent: Dark Teal (#336666)
+    Background: Black (#000000)
+    Text: Soft White (#D8D8D8)
+
+3. Charcoal and Neon Green (Dark Mode)
+    Primary Color: Deep Charcoal (#1A1A1A)
+    Accent: Lime Green (#00FF00)
+    Background: Black (#000000)
+    Text: Light Gray (#D3D3D3)
+
+4. Slate Blue and Orange Accents (Dark Mode)
+    Primary Color: Deep Slate Blue (#2A2A5D)
+    Accent: Dark Orange (#FF8C00)
+    Background: Black (#000000)
+    Text: Light White (#E0E0E0)
+
+5. Forest Green and Metallic Gray (Dark Mode)
+    Primary Color: Dark Forest Green (#114422)
+    Accent: Dark Metallic Gray (#808080)
+    Background: Black (#000000)
+    Text: Off-White (#F5F5F5)
+
+6. Royal Blue with Golden Highlights (Dark Mode)
+    Primary Color: Dark Royal Blue (#2A3C6E)
+    Accent: Dark Gold (#B8860B)
+    Background: Black (#000000)
+    Text: Light Gray (#D9D9D9)
